@@ -567,7 +567,7 @@ export default function Header() {
         {/* 3️⃣ Google Map */}
         <div className="h-[450px] rounded-2xl overflow-hidden shadow-md">
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3806.535758177327!2d78.35082367511078!3d17.444948883461568!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb93dd25c2dc75%3A0xf3e3a7c33dcb1622!2sPreston%20Prime%20Mall!5e0!3m2!1sen!2sin!4v1736238512345!5m2!1sen!2sin"
+            src="https://www.google.com/maps?q=Royal%20Function%20Hall%20Moosapet%20Hyderabad&output=embed"
             width="100%"
             height="100%"
             style={{ border: 0 }}
