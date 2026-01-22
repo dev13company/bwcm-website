@@ -15,7 +15,7 @@ const inter = Inter({
 });
 
 export const metadata = {
-  title: "Berachah Ministries Gachibowli",
+  title: "Berachah Ministries Moosapet",
   description: "A Place of Blessing & Worship",
   icons: {
     icon: "/icon.png",
