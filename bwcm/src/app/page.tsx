@@ -465,8 +465,8 @@ export default function Header() {
                     <span className="text-yellow-500 text-xl mt-1">📍</span>
                     <span>
                         <strong>Berachah Ministries</strong><br/>
-                        Dream Center, 3rd Floor,Preston Prime Mall <br/>
-                        Gachibowli, Hyderabad, Telangana
+                        Royal Function Hall, Railway Goods Shed Road, Bharath Nagar <br/>
+                        Moosapet, Hyderabad, Telangana
                     </span>
                     </p>
                     <p className="flex items-center space-x-3">
