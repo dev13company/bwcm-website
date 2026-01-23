@@ -386,7 +386,7 @@ export default function Header() {
                 <div className="mt-10 text-[#0B4268] leading-relaxed text-lg text-left md:text-center">
                     <p className="mb-4">
                         <strong>Pastor Yesupadam</strong> and <strong>Prabhavathi Yesupadam</strong> are the
-                        founders of <span className="font-semibold">Berachah Ministries, Moosapet</span> —
+                        founders of <span className="font-semibold">Berachah Ministries</span> —
                         They believed in the transformative power of prayer and the profound impact of communal worship. 
                         There doors are always open to all who seek solace, guidance, and spiritual renewal regardless of background 
                         or beliefs. Whether you are a seasoned devotee or a curious seeker, you are warmly welcomed into 
