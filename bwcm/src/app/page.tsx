@@ -355,7 +355,15 @@ export default function Header() {
                         })
                     ) : (
                             <div className="flex flex-col md:flex-row items-center justify-center gap-10">
-                                <div className="relative w-64 h-64 rounded-full overflow-hidden shadow-lg border-4 border-[#0B4268]">
+                                <div className="relative w-64 h-64 rounded-xl overflow-hidden shadow-lg border-4 border-[#0B4268]">
+                                    <Image
+                                    src="/yesupadam_prabavathi_1.png" // replace with actual image
+                                    alt="Yesupadam & Prabhavati"
+                                    fill
+                                    className="object-cover"
+                                    />
+                                </div>
+                                <div className="relative w-64 h-64 rounded-xl overflow-hidden shadow-lg border-4 border-[#0B4268]">
                                     <Image
                                     src="/pastor_caleb.jpg" // replace with actual image
                                     alt="Pastor Caleb"
@@ -363,7 +371,7 @@ export default function Header() {
                                     className="object-cover"
                                     />
                                 </div>
-                                <div className="relative w-64 h-64 rounded-full overflow-hidden shadow-lg border-4 border-[#0B4268]">
+                                <div className="relative w-64 h-64 rounded-xl overflow-hidden shadow-lg border-4 border-[#0B4268]">
                                     <Image
                                     src="/sister_shekena.jpg" // replace with actual image
                                     alt="Sister Shekena Sharon Glory"
